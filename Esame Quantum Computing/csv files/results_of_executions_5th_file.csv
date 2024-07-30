@@ -1,0 +1,441 @@
+KEY_LENGTH,job_id,fina_key_len,attack_noticed,timestamp
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:48:30
+,,,,
+500,simulator,123,true,2024-07-04 19:48:35
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:48:41
+,,,,
+500,simulator,123,true,2024-07-04 19:48:45
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:48:53
+,,,,
+500,simulator,123,true,2024-07-04 19:49:03
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:49:09
+,,,,
+500,simulator,123,true,2024-07-04 19:49:14
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:49:20
+,,,,
+500,simulator,123,true,2024-07-04 19:49:25
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:49:31
+,,,,
+500,simulator,123,true,2024-07-04 19:49:35
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:49:41
+,,,,
+500,simulator,123,true,2024-07-04 19:49:45
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:49:51
+,,,,
+500,simulator,123,true,2024-07-04 19:49:55
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:50:01
+,,,,
+500,simulator,123,true,2024-07-04 19:50:05
+,,,,
+500,simulator,123,not to consider,2024-07-04 19:50:11
+,,,,
+500,simulator,123,true,2024-07-04 19:50:15
+,,,,
+100,simulator,0,not to consider,2024-07-04 20:18:58
+,,,,
+100,simulator,0,true,2024-07-04 20:18:58
+,,,,
+101,simulator,0,not to consider,2024-07-04 20:19:02
+,,,,
+101,simulator,0,true,2024-07-04 20:19:03
+,,,,
+102,simulator,0,not to consider,2024-07-04 20:19:07
+,,,,
+102,simulator,0,true,2024-07-04 20:19:08
+,,,,
+103,simulator,0,not to consider,2024-07-04 20:19:12
+,,,,
+103,simulator,0,true,2024-07-04 20:19:12
+,,,,
+104,simulator,0,not to consider,2024-07-04 20:19:16
+,,,,
+104,simulator,0,true,2024-07-04 20:19:17
+,,,,
+105,simulator,0,not to consider,2024-07-04 20:19:21
+,,,,
+105,simulator,0,true,2024-07-04 20:19:22
+,,,,
+106,simulator,0,not to consider,2024-07-04 20:19:26
+,,,,
+106,simulator,0,true,2024-07-04 20:19:27
+,,,,
+107,simulator,0,not to consider,2024-07-04 20:19:31
+,,,,
+107,simulator,0,true,2024-07-04 20:19:32
+,,,,
+108,simulator,0,not to consider,2024-07-04 20:19:36
+,,,,
+108,simulator,0,true,2024-07-04 20:19:36
+,,,,
+109,simulator,0,not to consider,2024-07-04 20:19:40
+,,,,
+109,simulator,0,true,2024-07-04 20:19:41
+,,,,
+110,simulator,0,not to consider,2024-07-04 20:19:45
+,,,,
+110,simulator,0,true,2024-07-04 20:19:46
+,,,,
+111,simulator,0,not to consider,2024-07-04 20:19:50
+,,,,
+111,simulator,0,true,2024-07-04 20:19:51
+,,,,
+112,simulator,0,not to consider,2024-07-04 20:19:55
+,,,,
+112,simulator,0,true,2024-07-04 20:19:56
+,,,,
+113,simulator,0,not to consider,2024-07-04 20:20:00
+,,,,
+113,simulator,0,true,2024-07-04 20:20:01
+,,,,
+114,simulator,0,not to consider,2024-07-04 20:20:05
+,,,,
+114,simulator,0,true,2024-07-04 20:20:06
+,,,,
+115,simulator,0,not to consider,2024-07-04 20:20:10
+,,,,
+115,simulator,0,true,2024-07-04 20:20:11
+,,,,
+116,simulator,0,not to consider,2024-07-04 20:20:15
+,,,,
+116,simulator,0,true,2024-07-04 20:20:17
+,,,,
+117,simulator,0,not to consider,2024-07-04 20:20:21
+,,,,
+117,simulator,0,true,2024-07-04 20:20:22
+,,,,
+118,simulator,0,not to consider,2024-07-04 20:20:26
+,,,,
+118,simulator,0,true,2024-07-04 20:20:27
+,,,,
+119,simulator,0,not to consider,2024-07-04 20:20:31
+,,,,
+119,simulator,0,true,2024-07-04 20:20:32
+,,,,
+120,simulator,0,not to consider,2024-07-04 20:20:36
+,,,,
+120,simulator,0,true,2024-07-04 20:20:37
+,,,,
+121,simulator,0,not to consider,2024-07-04 20:20:41
+,,,,
+121,simulator,0,true,2024-07-04 20:20:43
+,,,,
+122,simulator,0,not to consider,2024-07-04 20:20:47
+,,,,
+122,simulator,0,true,2024-07-04 20:20:48
+,,,,
+123,simulator,0,not to consider,2024-07-04 20:20:52
+,,,,
+123,simulator,0,true,2024-07-04 20:20:53
+,,,,
+124,simulator,0,not to consider,2024-07-04 20:20:57
+,,,,
+124,simulator,0,true,2024-07-04 20:20:58
+,,,,
+125,simulator,0,not to consider,2024-07-04 20:21:02
+,,,,
+125,simulator,0,true,2024-07-04 20:21:03
+,,,,
+126,simulator,0,not to consider,2024-07-04 20:21:07
+,,,,
+126,simulator,0,true,2024-07-04 20:21:08
+,,,,
+127,simulator,0,not to consider,2024-07-04 20:21:12
+,,,,
+127,simulator,0,true,2024-07-04 20:21:13
+,,,,
+128,simulator,0,not to consider,2024-07-04 20:21:17
+,,,,
+128,simulator,0,true,2024-07-04 20:21:18
+,,,,
+129,simulator,0,not to consider,2024-07-04 20:21:22
+,,,,
+129,simulator,0,true,2024-07-04 20:21:23
+,,,,
+130,simulator,0,not to consider,2024-07-04 20:21:27
+,,,,
+130,simulator,0,true,2024-07-04 20:21:28
+,,,,
+131,simulator,0,not to consider,2024-07-04 20:21:32
+,,,,
+131,simulator,0,true,2024-07-04 20:21:33
+,,,,
+132,simulator,0,not to consider,2024-07-04 20:21:38
+,,,,
+132,simulator,0,true,2024-07-04 20:21:39
+,,,,
+133,simulator,0,not to consider,2024-07-04 20:21:43
+,,,,
+133,simulator,0,true,2024-07-04 20:21:44
+,,,,
+134,simulator,0,not to consider,2024-07-04 20:21:48
+,,,,
+134,simulator,0,true,2024-07-04 20:21:49
+,,,,
+135,simulator,0,not to consider,2024-07-04 20:21:53
+,,,,
+135,simulator,0,true,2024-07-04 20:21:54
+,,,,
+136,simulator,0,not to consider,2024-07-04 20:21:58
+,,,,
+136,simulator,0,true,2024-07-04 20:21:59
+,,,,
+137,simulator,0,not to consider,2024-07-04 20:22:03
+,,,,
+137,simulator,0,true,2024-07-04 20:22:04
+,,,,
+138,simulator,0,not to consider,2024-07-04 20:22:09
+,,,,
+138,simulator,0,true,2024-07-04 20:22:11
+,,,,
+139,simulator,0,not to consider,2024-07-04 20:22:15
+,,,,
+139,simulator,0,true,2024-07-04 20:22:16
+,,,,
+140,simulator,0,not to consider,2024-07-04 20:22:21
+,,,,
+140,simulator,0,true,2024-07-04 20:22:22
+,,,,
+141,simulator,0,not to consider,2024-07-04 20:22:27
+,,,,
+141,simulator,0,true,2024-07-04 20:22:28
+,,,,
+142,simulator,0,not to consider,2024-07-04 20:22:32
+,,,,
+142,simulator,0,true,2024-07-04 20:22:33
+,,,,
+143,simulator,0,not to consider,2024-07-04 20:22:38
+,,,,
+143,simulator,0,true,2024-07-04 20:22:39
+,,,,
+144,simulator,0,not to consider,2024-07-04 20:22:43
+,,,,
+144,simulator,0,true,2024-07-04 20:22:44
+,,,,
+145,simulator,0,not to consider,2024-07-04 20:22:48
+,,,,
+145,simulator,0,true,2024-07-04 20:22:49
+,,,,
+146,simulator,0,not to consider,2024-07-04 20:22:53
+,,,,
+146,simulator,0,true,2024-07-04 20:22:54
+,,,,
+147,simulator,0,not to consider,2024-07-04 20:22:59
+,,,,
+147,simulator,0,true,2024-07-04 20:23:00
+,,,,
+148,simulator,0,not to consider,2024-07-04 20:23:04
+,,,,
+148,simulator,0,true,2024-07-04 20:23:05
+,,,,
+149,simulator,0,not to consider,2024-07-04 20:23:10
+,,,,
+149,simulator,0,true,2024-07-04 20:23:11
+,,,,
+150,simulator,0,not to consider,2024-07-04 20:23:15
+,,,,
+150,simulator,0,true,2024-07-04 20:23:16
+,,,,
+151,simulator,0,not to consider,2024-07-04 20:23:21
+,,,,
+151,simulator,0,true,2024-07-04 20:23:22
+,,,,
+152,simulator,0,not to consider,2024-07-04 20:23:26
+,,,,
+152,simulator,0,true,2024-07-04 20:23:27
+,,,,
+153,simulator,0,not to consider,2024-07-04 20:23:32
+,,,,
+153,simulator,0,true,2024-07-04 20:23:33
+,,,,
+154,simulator,0,not to consider,2024-07-04 20:23:37
+,,,,
+154,simulator,0,true,2024-07-04 20:23:38
+,,,,
+155,simulator,0,not to consider,2024-07-04 20:23:43
+,,,,
+155,simulator,0,true,2024-07-04 20:23:44
+,,,,
+156,simulator,0,not to consider,2024-07-04 20:23:48
+,,,,
+156,simulator,0,true,2024-07-04 20:23:49
+,,,,
+157,simulator,0,not to consider,2024-07-04 20:23:53
+,,,,
+157,simulator,0,true,2024-07-04 20:23:54
+,,,,
+158,simulator,0,not to consider,2024-07-04 20:23:59
+,,,,
+158,simulator,0,true,2024-07-04 20:24:01
+,,,,
+159,simulator,0,not to consider,2024-07-04 20:24:05
+,,,,
+159,simulator,0,true,2024-07-04 20:24:06
+,,,,
+160,simulator,0,not to consider,2024-07-04 20:24:11
+,,,,
+160,simulator,0,true,2024-07-04 20:24:12
+,,,,
+161,simulator,0,not to consider,2024-07-04 20:24:16
+,,,,
+161,simulator,0,true,2024-07-04 20:24:17
+,,,,
+162,simulator,0,not to consider,2024-07-04 20:24:22
+,,,,
+162,simulator,0,true,2024-07-04 20:24:23
+,,,,
+163,simulator,0,not to consider,2024-07-04 20:24:27
+,,,,
+163,simulator,0,true,2024-07-04 20:24:29
+,,,,
+164,simulator,0,not to consider,2024-07-04 20:24:33
+,,,,
+164,simulator,0,true,2024-07-04 20:24:35
+,,,,
+165,simulator,0,not to consider,2024-07-04 20:24:39
+,,,,
+165,simulator,0,true,2024-07-04 20:24:41
+,,,,
+166,simulator,0,not to consider,2024-07-04 20:24:45
+,,,,
+166,simulator,0,true,2024-07-04 20:24:47
+,,,,
+167,simulator,0,not to consider,2024-07-04 20:24:51
+,,,,
+167,simulator,0,true,2024-07-04 20:24:52
+,,,,
+168,simulator,0,not to consider,2024-07-04 20:24:56
+,,,,
+168,simulator,0,true,2024-07-04 20:24:58
+,,,,
+169,simulator,0,not to consider,2024-07-04 20:25:02
+,,,,
+169,simulator,0,true,2024-07-04 20:25:03
+,,,,
+170,simulator,0,not to consider,2024-07-04 20:25:08
+,,,,
+170,simulator,0,true,2024-07-04 20:25:09
+,,,,
+171,simulator,0,not to consider,2024-07-04 20:25:14
+,,,,
+171,simulator,0,true,2024-07-04 20:25:15
+,,,,
+172,simulator,0,not to consider,2024-07-04 20:25:19
+,,,,
+172,simulator,0,true,2024-07-04 20:25:23
+,,,,
+173,simulator,0,not to consider,2024-07-04 20:25:27
+,,,,
+173,simulator,0,true,2024-07-04 20:25:28
+,,,,
+174,simulator,0,not to consider,2024-07-04 20:25:33
+,,,,
+174,simulator,0,true,2024-07-04 20:25:34
+,,,,
+175,simulator,0,not to consider,2024-07-04 20:25:38
+,,,,
+175,simulator,0,true,2024-07-04 20:25:39
+,,,,
+176,simulator,0,not to consider,2024-07-04 20:25:44
+,,,,
+176,simulator,0,true,2024-07-04 20:25:45
+,,,,
+177,simulator,0,not to consider,2024-07-04 20:25:49
+,,,,
+177,simulator,0,true,2024-07-04 20:25:51
+,,,,
+178,simulator,0,not to consider,2024-07-04 20:25:55
+,,,,
+178,simulator,0,true,2024-07-04 20:25:56
+,,,,
+179,simulator,0,not to consider,2024-07-04 20:26:01
+,,,,
+179,simulator,0,true,2024-07-04 20:26:03
+,,,,
+180,simulator,0,not to consider,2024-07-04 20:26:07
+,,,,
+180,simulator,0,true,2024-07-04 20:26:08
+,,,,
+181,simulator,0,not to consider,2024-07-04 20:26:13
+,,,,
+181,simulator,0,true,2024-07-04 20:26:14
+,,,,
+182,simulator,0,not to consider,2024-07-04 20:26:19
+,,,,
+182,simulator,0,true,2024-07-04 20:26:20
+,,,,
+183,simulator,0,not to consider,2024-07-04 20:26:25
+,,,,
+183,simulator,0,true,2024-07-04 20:26:28
+,,,,
+184,simulator,0,not to consider,2024-07-04 20:26:32
+,,,,
+184,simulator,0,true,2024-07-04 20:26:34
+,,,,
+185,simulator,0,not to consider,2024-07-04 20:26:38
+,,,,
+185,simulator,0,true,2024-07-04 20:26:40
+,,,,
+186,simulator,0,not to consider,2024-07-04 20:26:44
+,,,,
+186,simulator,0,true,2024-07-04 20:26:46
+,,,,
+187,simulator,0,not to consider,2024-07-04 20:26:50
+,,,,
+187,simulator,0,true,2024-07-04 20:26:52
+,,,,
+188,simulator,0,not to consider,2024-07-04 20:26:56
+,,,,
+188,simulator,0,true,2024-07-04 20:26:58
+,,,,
+189,simulator,1,not to consider,2024-07-04 20:27:02
+,,,,
+189,simulator,1,true,2024-07-04 20:27:03
+,,,,
+190,simulator,0,not to consider,2024-07-04 20:27:08
+,,,,
+190,simulator,0,true,2024-07-04 20:27:10
+,,,,
+191,simulator,0,not to consider,2024-07-04 20:27:15
+,,,,
+191,simulator,0,true,2024-07-04 20:27:18
+,,,,
+192,simulator,9,not to consider,2024-07-04 20:27:22
+,,,,
+192,simulator,9,true,2024-07-04 20:27:24
+,,,,
+193,simulator,4,not to consider,2024-07-04 20:27:29
+,,,,
+193,simulator,4,true,2024-07-04 20:27:31
+,,,,
+194,simulator,0,not to consider,2024-07-04 20:27:35
+,,,,
+194,simulator,0,true,2024-07-04 20:27:36
+,,,,
+195,simulator,0,not to consider,2024-07-04 20:27:41
+,,,,
+195,simulator,0,true,2024-07-04 20:27:42
+,,,,
+196,simulator,0,not to consider,2024-07-04 20:27:47
+,,,,
+196,simulator,0,true,2024-07-04 20:27:48
+,,,,
+197,simulator,10,not to consider,2024-07-04 20:27:53
+,,,,
+197,simulator,10,true,2024-07-04 20:27:54
+,,,,
+198,simulator,9,not to consider,2024-07-04 20:27:59
+,,,,
+198,simulator,9,true,2024-07-04 20:28:00
+,,,,
+199,simulator,2,not to consider,2024-07-04 20:28:04
+,,,,
+199,simulator,2,true,2024-07-04 20:28:06
