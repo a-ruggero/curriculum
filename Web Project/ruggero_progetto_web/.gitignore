@@ -1,0 +1,4 @@
+database/*.sql
+database/*.project
+.vscode/
+node_modules/
